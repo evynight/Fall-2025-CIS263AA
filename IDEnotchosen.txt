@@ -1,0 +1,3 @@
+An IDE I decided not to choose for this class was jGRASP, because I have used it before and now despise it. It was mandatory use for my Java Level I course to the point where my professor threatened to fail students who didn't utilize it. Installing the program was far more difficult than it had any right to be. My decently powerful PC couldn't get it to run any faster than a snail's pace. It crashed constantly. It blue screened my laptop more than a handful of times. I honestly couldn't wait to uninstall it at the end of the semester.
+
+I do not like jGRASP.
