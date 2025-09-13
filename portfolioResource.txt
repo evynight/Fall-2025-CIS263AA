@@ -1,0 +1,5 @@
+Much like an artist uses a portfolio to aggregate examples of their best work to show off to potential clients and employers, my GitHub can be used the same way. And like an artist's portfolio, it will grow and change as my skills evolve over time.
+
+Since I am still current in the process of learning the basics of programming, I won't have much beyond my classwork to include in there. However, I think there is still value in demonstrating the skills I have developed over the duration of my courses. If anything, starting now will be building the foundation for including my work later on. I can always swap out my early practice for more complete projects later on.
+
+For example, the website I created for my HTML class a few semesters ago is something I would want to include right now. Once I start approaching graduation, I will probably want to trade it out for something a little more advanced.
